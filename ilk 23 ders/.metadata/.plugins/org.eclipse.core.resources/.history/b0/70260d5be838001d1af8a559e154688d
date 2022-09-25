@@ -1,0 +1,19 @@
+package switchDemo;
+
+public class Main {
+
+	public static void main(String[] args) {
+		char grade='A';
+		
+		switch (key) {
+		case value: {
+			
+			yield type;
+		}
+		default:
+			System.out.println("Geçersiz not girdiniz");
+		}
+
+	}
+
+}

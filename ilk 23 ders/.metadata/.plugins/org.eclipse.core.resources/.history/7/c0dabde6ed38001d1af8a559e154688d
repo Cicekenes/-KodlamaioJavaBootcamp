@@ -1,0 +1,19 @@
+package sesliHarfler;
+
+public class Main {
+
+	public static void main(String[] args) {
+		char harf = 'I';
+		
+		switch (harf) {
+		case 'A':
+			
+			break;
+
+		default:
+			break;
+		}
+
+	}
+
+}
